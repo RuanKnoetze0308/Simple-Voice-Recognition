@@ -1,2 +1,2 @@
-# Simple-Voice-over
+# Simple-Voice-Recognition
 Built with HTML and Javascript
